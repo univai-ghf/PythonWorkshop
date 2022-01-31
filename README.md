@@ -17,4 +17,9 @@ We will end up with code that plots unemployment rates in multiple American stat
 
 ![](images/unemploy.png)
 
+Workshop: [![Open Workshop In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/univai-ghf/PythonWorkshop/blob/main/Homework_PythonWorkshop.ipynb)
+
+
 Finally, a homework problem will help cement your understanding, and make you even more dangerous!# PythonWorkshop
+
+Homework: [![Open Homework In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/univai-ghf/PythonWorkshop/blob/main/Homework_PythonWorkshop.ipynb)
