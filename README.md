@@ -17,7 +17,7 @@ Workshop: [![Open Workshop In Colab](https://colab.research.google.com/assets/co
 
 We will end up with code that plots unemployment rates in multiple American states. This example exercises all basic python concepts for data science..if you understand it you are golden!
 
-![](images/unemploy.png)
+![](images/unemploy.jpg)
 
 Finally, a homework problem will help cement your understanding, and make you even more dangerous!# PythonWorkshop
 
